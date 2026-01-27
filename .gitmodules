@@ -1,0 +1,15 @@
+[submodule "2023"]
+	path = 2023
+	url = https://github.com/KingOfDog/advent-of-code-2023
+[submodule "advent-of-code-2022"]
+	path = advent-of-code-2022
+	url = https://github.com/KingOfDog/advent-of-code-2022
+[submodule "2024"]
+	path = 2024
+	url = https://github.com/KingOfDog/advent-of-code-2024
+[submodule "2021"]
+	path = 2021
+	url = https://github.com/KingOfDog/advent-of-code-kt
+[submodule "2022"]
+	path = 2022
+	url = https://github.com/KingOfDog/advent-of-code-2022
